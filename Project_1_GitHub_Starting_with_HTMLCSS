@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Onglet 1 - Présentation de proi</title>
+  </head>
+
+<body style="background-color: #ccdaff;">
+  <h1 style="
+    color: #171e47;
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia;"
+    >Bienvenue sur ma page de pr&#233sentation en mode site statique !
+    <br>Voici mon profil :
+    </h1>
+ 
+<div style=
+  "margin-left: 40%;
+  margin-right: 40%;">
+<table>
+      <tr> 
+        <td><img src="https://static.wixstatic.com/media/e7eb28_ed4b1670973f4e9e82fca8acc44f4a94~mv2.jpg/v1/fill/w_252,h_358,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/e7eb28_ed4b1670973f4e9e82fca8acc44f4a94~mv2.jpg" alt="Ancienne Photo pro Cyrine"></td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://www.linkedin.com/in/cyrine-said-ali-cysa" target="_blank"><p style="color: #678ef6;">Cliquez ici pour visualiser mon profil LinkedIn 👈</p></a></td>
+      </tr>
+</table>
+</div> 
+    
+  <br><br><br><br>
+  <hr/>
+
+<p style=
+"color: #678ef6;
+font-size: 220%;
+text-align: right; 
+font-family:monospace;
+font-style: italic;">&copy; csaid-al 2024</p>
+</body>
+</html>
